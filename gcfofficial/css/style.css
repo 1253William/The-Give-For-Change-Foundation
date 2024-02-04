@@ -4,7 +4,7 @@
 html {
   scroll-behavior: smooth;
   scroll-padding-top: 5rem;
-  overflow-x: none;
+  overflow-x:hidden;
 }
 
 body {
@@ -12,7 +12,6 @@ body {
   line-height: 1.8;
   font-weight: 300;
   color: #555555;
- overflow-x: none;
 }
 
 a {
